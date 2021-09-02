@@ -1,0 +1,38 @@
+{
+  "numSong": 3,
+  "api": [
+   {
+      "title": "Aim to Be a Pokémon (Pokémon Theme)",
+      "singer": "Rica Matsumoto",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/Aim%20to%20Be%20a%20Pok%C3%A9mon%20(Ru's%20Piano%20Ru%E5%91%B3%E6%98%A5%E6%8D%B2).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/originals/bd/cb/6f/bdcb6f196e63b687c275d3c9e3b4c724.gif",
+      "info":
+          "https://www.youtube.com/watch?v=Tuto5Aufrb8&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=32",
+      "cover": "(Cover by Ru's Piano Ru味春捲)"
+    },
+    {
+      "title": "Passionate Duelist (YuGiOh)",
+      "singer": "Unkown",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Piano320Kpbs/YuGiOh%20Passionate%20Duelist%20Theme%20(Ru's%20Piano%20Ru%E5%91%B3%E6%98%A5%E6%8D%B2).mp3?raw=true",
+      "coverUrl":
+          "https://i.pinimg.com/originals/74/01/68/740168679221524b1ae68621bf9de32c.gif",
+      "info":
+          "https://www.youtube.com/watch?v=tfwatFtgWPY&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=37",
+      "cover": "(Cover by Ru's Piano Ru味春捲)"
+    },
+    {
+      "title": "Watashi no Uso",
+      "singer": "Your Lie in April OST",
+      "url":
+          "https://github.com/acrosshorizon/palpitate/blob/main/Violin/your%20lie%20in%20aprilwatashi%20no%20uso%20LilyPichu.mp3?raw=true",
+      "coverUrl":
+          "https://i1.wp.com/66.media.tumblr.com/346e7c2dc66daff8e45c0ce881889033/tumblr_nq9xw2wKVE1s5f9ado1_500.gif",
+      "info":
+          "https://www.youtube.com/watch?v=iW_P2UPkpc4&list=PLTpeyQJ-cKQfkJ12WuqDbbYPYJkdv7Usm&index=11",
+      "cover": "(Cover by LilyPichu)"
+    },
+  ]
+}
